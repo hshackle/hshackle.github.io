@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="/libs/katex/katex.min.css">
+     
+  
+  <link rel="stylesheet" href="/css/franklin.css">
+  <link rel="stylesheet" href="/css/basic.css">
+  <!-- <link rel="icon" href="/assets/favicon.png"> -->
+   <title>Protection of Parity-Time Symmetry in Topological Many-Body Systems Non-Hermitian Toric Code and Fracton Models</title>  
+</head>
+<body>
+  <header>
+<div class="blog-name"><a href="/">Henry Shackleton</a></div>
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/menu1/">Research</a></li>
+    <li><a href="/menu2/">CV</a></li>
+  </ul>
+  <img src="/assets/hamburger.svg" id="menu-icon">
+</nav>
+</header>
+
+
+<!-- Content appended here -->
+<div class="franklin-content"><p>This work with Mathias Scheurer begun with an unusual numerical observation. Take the <a href="https://en.wikipedia.org/wiki/Toric_code">toric code</a> model and apply an imaginary &#40;non-Hermitian&#41; magnetic field. Generically, the energy spectrum will become complex upon turning on this perturbation. The surprising thing we observed is that despite this, the four topologically degenerate ground states remain real. This is shown in the plots below, displaying the real and imaginary parts of the spectrum under an imaginary magnetic field of strength \(\epsilon\) - the four ground states are highlighted in red, and remain real until the strength of the perturbation becomes of order 1. Complex eigenvalues are indicated by blue colouring. <img src="/papers/tcSpectrum.png" alt="alt" /> This is a feature that is robust to spatial disorder - although not robust to a completely arbitrary non-Hermitian perturbation - and crucially is <em>only</em> true for system sizes that are even by even.</p>
+<p>The physics that controls this phenomenon turns out to be quite general and can be understood outside the context of non-Hermitian physics. Recall that the toric code  Hamiltonian is built out of commuting stabilizers, and hence has an extensive number of conserved quantities. Of course, the existence of topological order is not contingent on preserving these symmetries exactly, and the topological phase is robust to small perturbations away from this fine-tuned point. However, we may demand that certain global symmetries are preserved - if we do this, then we would say that we are studying a <em>symmetry-enriched</em> topological phase. For a model of qubits, a very natural symmetry to consider is the \(\mathbb{Z}_2\) parity symmetry, \( Q = \prod_i \sigma^z_i\) &#40;one may also consider the product of the other Pauli operators, \( \sigma^x \) or \(\sigma^y\) - in the models we consider, this choice makes no difference&#41;. It is these symmetries that happen to be the ones of interest in our analysis of non-Hermitian perturbations, although in principle studying this symmetry-enriched phase is a well-posed problem purely in Hermitian quantum mechanics.</p>
+<p>How do the topologically-degenerate ground states of the toric code transform under this symmetry? It turns out that this depends sensitively on the system size. Non-local string operators \(V_x\,, V_y\) which take one ground state to another, will either commute or anti-commute with \(Q\) depending on whether the length of the system in the <em>x</em> or <em>y</em> direction is even or odd. If our square lattice is even-by-even, then all four ground states have even parity. For all other cases, the ground state subspace is split into a parity-even and parity-odd sector. An equivalent way of verifying this is checking whether \(Q\) can be rewritten as a product of stabilizers of the Hamiltonian - if it can, then all the ground states must have even parity. This latter perspective is extremely useful for more complicated stabilizer models like Haah&#39;s cubic codes, as the question can be reformulated as an algebraic one of polynomial factorization which can be carried out on a computer.</p>
+<p>How do these symmetries relate to non-Hermitian perturbations? A full understanding of this requires a deep dive into non-Hermitian quantum mechanics, the relevant points of which we summarize in our paper. The conclusion is that we require our perturbed Hamiltonian to be <em>psuedo-Hermitian</em>, which implies the existence of an operator \(\eta\) such that \(\eta H \eta^{-1} = H^\dagger \). For a Hermitian Hamiltonian, this means that \(\eta\) commutes with the Hamiltonian and is therefore just a symmetry. Under pseudo-Hermitian perturbations, isolated eigenvalues on the real axis are protected from immediately becoming complex, since pseudo-Hermiticity requires the spectrum \(\{ \lambda_i \} \) to be symmetric under \( \lambda_i \rightarrow  \lambda_i^* \). For degenerate eigenvalues, it was first understood by Krein, Gel&#39;fand, and Lidskii in the 1950s that the reality of degenerate eigenvalues are protected when the eigenstates of the Hermitian system have the same quantum number under \(\eta\). Translating this to our above discussion, we claim that the four degenerate ground states of the toric code are protected against psuedo-Hermitian perturbations provided they have the same eigenvalue under \(\eta \equiv \prod_i \sigma^z_i \), which happens on an even-by-even lattice.</p>
+<p>This classification can be extended to a large class of qubit stabilizer models, which we analyze in our paper. For fracton models in 3D, we find a similar criteria - the extensive number of degenerate ground states are all even under the symmetry \(Q\) provided the system size in all dimensions is even. A notable exception to this is Haah&#39;s 17 cubic codes, which turn out to have a tremendously complicated dependence on the system size. The ground states are even under \(Q\) provided all the system lengths are divisible by 4; beyond this, different cubic codes behave differently depending on the system lengths modulo 4. </p>
+<div class="page-foot">
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Henry Shackleton. Last modified: December 18, 2023.
+    Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
+</div>
+</div><!-- CONTENT ENDS HERE -->
+    
+        <script src="/libs/katex/katex.min.js"></script>
+<script src="/libs/katex/contrib/auto-render.min.js"></script>
+<script>renderMathInElement(document.body)</script>
+
+    
+    
+  </body>
+</html>
