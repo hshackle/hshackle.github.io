@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="/libs/katex/katex.min.css">
+     
+  
+  <link rel="stylesheet" href="/css/franklin.css">
+  <link rel="stylesheet" href="/css/basic.css">
+  <!-- <link rel="icon" href="/assets/favicon.png"> -->
+   <title>Sign-problem-free effective models of triangular lattice quantum antiferromagnets</title>  
+</head>
+<body>
+  <header>
+<div class="blog-name"><a href="/">Henry Shackleton</a></div>
+<nav>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/menu1/">Research</a></li>
+    <li><a href="/menu2/">CV</a></li>
+  </ul>
+  <img src="/assets/hamburger.svg" id="menu-icon">
+</nav>
+</header>
+
+
+<!-- Content appended here -->
+<div class="franklin-content"><p>The question at hand is: can we find a sign-problem-free representation of this model? The answer turns out to be yes. The techniques required are a bit scattered throughout the literature - in fact, similar ideas seem to have appeared in both the condensed matter and lattice QCD communities without any references to each other.</p>
+<p>Conceptually, it&#39;s easiest to build up this duality mapping by starting with the simplest case and gradually adding in complexities:</p>
+<ul>
+<li><p>An XY model &#40;with \(O(2)\) symmetry&#41; on a cubic lattice is dual to a theory of integer-valued closed current loops on the links of the same lattice. Current loops cost some energy, and a phase transition happens when these current loops proliferate.</p>
+</li>
+<li><p>An XY model coupled to a classical \(\mathbb{Z}_2\) gauge field is dual to a theory of integer-valued closed current loops defined on links and surfaces living on plaquettes, with the constraint that any odd current loop must form the perimeter of an open surface. The strength of the gauge coupling correponds to a surface tension; for strong coupling, only <em>pairs</em> of current loops can appear, which corresponds to gauge confinement. In the limit where current loops cost infinite energy, we have a theory of closed surfaces, which can be thought of as domain walls of an Ising model defined on the dual lattice; this is the standard Kramers-Wannier duality that maps a \(\mathbb{Z}_2\) gauge field to an Ising model on the dual lattice.</p>
+</li>
+<li><p>An XY model coupled to an <em>odd</em> \(\mathbb{Z}_2\) gauge field is dual to a similar-looking theory as before, except that instead of the gauge action yielding some uniform surface tension, different plaquettes cost positive or negative energy depending on their location. The structure of this is such that the dual Ising model is fully frustrated in the spatial planes.</p>
+</li>
+<li><p>An \(O(2n)\) vector model coupled to an odd \(\mathbb{Z}_2\) gauge field has \(n\) species of current loops, along with \(n\) radial variables living on the sites. There remains only one species of surface variables, which couple to all species of currents. </p>
+</li>
+</ul>
+<p>Since we are ultimately interested in the triangular lattice, we need to also show that these duality mappings generalize beyond the cubic lattice. We show that this mapping definitely goes through for lattice with bipartite dual lattices; for non-bipartite dual lattices, the mapping is a little more subtle and there remain some issues to more carefully analyze. It would be useful to have a more general formulation of these duality mappings that don&#39;t require careful analysis of the geometeric details.</p>
+<p>We simulate this sign-problem-free model with classical Monte Carlo. However, these simulations turn out to be rather challenging. The first difficulty is that the VBS order obtained from vison condensation has a twelve-site unit cell, and due to the structure of the unit cell, only systems whose linear system size is a multiple of twelve have the same commensurability with this ordering.</p>
+<div class="page-foot">
+    <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> Henry Shackleton. Last modified: December 18, 2023.
+    Website built with <a href="https://github.com/tlienart/Franklin.jl">Franklin.jl</a> and the <a href="https://julialang.org">Julia programming language</a>.
+</div>
+</div><!-- CONTENT ENDS HERE -->
+    
+        <script src="/libs/katex/katex.min.js"></script>
+<script src="/libs/katex/contrib/auto-render.min.js"></script>
+<script>renderMathInElement(document.body)</script>
+
+    
+    
+  </body>
+</html>
