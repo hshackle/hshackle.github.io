@@ -57,6 +57,7 @@ For most of my papers listed below, I also provide a link to a short summary of 
 * (09/21/2020) "Numerical study of the random $t-J$ model with all-to-all interactions" Harvard University, group seminar 
 * (06/15/2020) "Protection of parity-time symmetry in topological many-body systems," Harvard University, group seminar 
 * (06/16/2018) "Turing patterns on deformed surfaces," Kardar-Fest, in celebration of Prof. Mehran Kardar's 60th birthday, contributed talk [[pdf]](/presentations/jun18Kardar.pdf)
+* 
 # Posters 
 * "Deconfined criticality and a gapless Z2 spin liquid in the square-lattice antiferromagnet", Correlated Electron Systems Gordon Research Conference, June 2022 [[pdf]](/posters/grc.pdf)
 * "Deconfined criticality and a gapless Z2 spin liquid in the square-lattice antiferromagnet", CIFAR Quantum Materials Summer School, May 2022 [[pdf]](/posters/cifar.pdf)
