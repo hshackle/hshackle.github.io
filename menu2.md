@@ -43,6 +43,10 @@ For most of my papers listed below, I also provide a link to a short summary of 
 - J. R. Frank, J. Guven, M. Kardar, and **H. Shackleton**, *Pinning of diffusional patterns by non-uniform curvature*, Europhysics Letters **127**, 48001 (2019). [[link]](https://doi.org/10.1209/0295-5075/127/48001) [[summary]](/papers/kardar) 
 
 # Presentations
+* (12/04/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," Perimeter Institute seminar [[pdf]](/presentations/dec23Perimeter.pdf)
+* (11/29/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," University of Illinois Urbana-Champaign seminar [[pdf]](/presentations/nov23UIUC.pdf)
+* (11/28/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," Harvard Kids seminar [[pdf]](/presentations/nov23Kids.pdf)
+* (11/15/2023) "Sign-problem-free effective models for triangular lattice antiferromagnets," Flatiron Institute seminar [[pdf]](/presentations/nov23Flatiron.pdf)
 * (06/12/2023) "An exactly solvable dissipative spin liquid," University of Innsbruck, group seminar [[pdf]](/presentations/jun23Innsbruck.pdf)
 * (05/23/2023) "Variational wavefunctions for the pseudogap metal," Flatiron Institute, predoctoral researcher presentation [[pdf]](/presentations/may23Flatiron.pdf)
 * (03/10/2023) "Sign-problem-free effective models of spin-1/2 Heisenberg antiferromagnetism on the triangular lattice," APS March Meeting 2023, contributed talk [[pdf]](/presentations/mar23APS.pdf)
