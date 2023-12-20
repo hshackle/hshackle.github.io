@@ -54,8 +54,8 @@ For most of my papers listed below, I also provide a link to a short summary of 
 * (11/06/2022) "Sign-problem-free effective models of triangular lattice antiferromagnetism," Harvard University, group seminar [[pdf]](/presentations/nov22Harvard.pdf)
 * (03/17/2022) "Deconfined criticality and a gapless Z2 spin liquid in the square-lattice antiferromagnet," APS March Meeting 2022, contributed talk [[pdf]](/presentations/mar22APS.pdf)
 * (03/19/2021) "Protection of parity-time symmetry in topological many-body systems," APS March Meeting 2021, contributed talk [[pdf]](/presentations/mar21APS.pdf)
-* (09/21/2020) "Numerical study of the random $t-J$ model with all-to-all interactions" Harvard University, group seminar 
-* (06/15/2020) "Protection of parity-time symmetry in topological many-body systems," Harvard University, group seminar 
+* (09/21/2020) "Numerical study of the random $t-J$ model with all-to-all interactions" Harvard University, group seminar [[pdf]](/presentations/aug20Harvard.pdf)
+* (06/15/2020) "Protection of parity-time symmetry in topological many-body systems," Harvard University, group seminar [[pdf]](/presentations/jun20Harvard.pdf)
 * (06/16/2018) "Turing patterns on deformed surfaces," Kardar-Fest, in celebration of Prof. Mehran Kardar's 60th birthday, contributed talk [[pdf]](/presentations/jun18Kardar.pdf)
 * 
 # Posters 
