@@ -22,7 +22,7 @@ For most of my papers listed below, I also provide a link to a short summary of 
   * Thesis advisor: Mehran Kardar  
 # Publications and preprints:     
 
-- L. E. Anderson, A. Laitinen, A. Zimmerman, T. Werkmeister, **H. Shackleton**, A. Kruchkov, T. Taniguchi, K. Watanabe, S. Sachdev, and P. Kim, *Magneto-Thermoelectric Transport in Graphene Quantum Dot with Strong Correlations*, arXiv:2401.08050 [[link]](https://arxiv.org/abs/2401.08050)
+- L. E. Anderson, A. Laitinen, A. Zimmerman, T. Werkmeister, **H. Shackleton**, A. Kruchkov, T. Taniguchi, K. Watanabe, S. Sachdev, and P. Kim, *Magneto-Thermoelectric Transport in Graphene Quantum Dot with Strong Correlations*, arXiv:2401.08050 (2023). [[link]](https://arxiv.org/abs/2401.08050)
 - **H. Shackleton** and S. Sachdev, *Sign-problem-free effective models of triangular lattice quantum antiferromagnets*, arXiv:2311.01572 (2023). [[link]](https://arxiv.org/abs/2311.01572)
 
 - **H. Shackleton**, L. E. Anderson, P. Kim, and S. Sachdev, *Conductance and thermopower fluctuations in interacting quantum dots*, arXiv:2309.05741 (2023). [[link]](https://doi.org/10.48550/arXiv.2309.05741) [[summary]](/papers/graphenetheory)
