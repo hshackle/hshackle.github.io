@@ -27,7 +27,7 @@ For most of my papers listed below, I also provide a link to a short summary of 
 
 - **H. Shackleton**, L. E. Anderson, P. Kim, and S. Sachdev, *Conductance and thermopower fluctuations in interacting quantum dots*, arXiv:2309.05741 (2023). [[link]](https://doi.org/10.48550/arXiv.2309.05741) [[summary]](/papers/graphenetheory)
 
-- **H. Shackleton** and M. S. Scheurer, *An exactly solvable dissipative spin liquid*, arXiv:2307.05743 (2023). [[link]](https://doi.org/10.48550/arXiv.2307.05743) [[summary]](/papers/bilayer)
+- **H. Shackleton** and M. S. Scheurer, *An exactly solvable dissipative spin liquid*, Phys. Rev. B **109**, 085115 (2024). [[link]](https://doi.org/10.48550/arXiv.2307.05743) [[summary]](/papers/bilayer)
 
 - M. Christos, Z.-X. Luo, **H. Shackleton**, Y.-H. Zhang, M. S. Scheurer, and S. Sachdev, *A Model of d-Wave Superconductivity, Antiferromagnetism, and Charge Order on the Square Lattice*, Proceedings of the National Academy of Sciences **120**, e2302701120 (2023). [[link]](https://doi.org/10.1073/pnas.2302701120) [[summary]](/papers/ancilla)
 
