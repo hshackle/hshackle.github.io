@@ -46,6 +46,8 @@ For most of my papers listed below, I also provide a link to a short summary of 
 - J. R. Frank, J. Guven, M. Kardar, and **H. Shackleton**, *Pinning of diffusional patterns by non-uniform curvature*, Europhysics Letters **127**, 48001 (2019). [[link]](https://doi.org/10.1209/0295-5075/127/48001) [[summary]](/papers/kardar) 
 
 # Presentations
+* (03/08/2024) "Variational wavefunctions for topologically ordered Fermi liquids" APS March Meeting 2024, contributed talk [[pdf]](/presentations/mar24APSContributed.pdf)
+* (03/08/2024) "Conductance and thermopower fluctuations in interacting quantum dots," APS March Meeting 2024, invited talk [[pdf]](/presentations/mar24APSInvited.pdf)
 * (12/04/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," Perimeter Institute seminar [[pdf]](/presentations/dec23Perimeter.pdf)
 * (11/29/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," University of Illinois Urbana-Champaign seminar [[pdf]](/presentations/nov23UIUC.pdf)
 * (11/28/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," Harvard Kids seminar [[pdf]](/presentations/nov23Kids.pdf)
