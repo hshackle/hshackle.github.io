@@ -14,20 +14,26 @@ My most up-to-date CV can be downloaded in pdf format [here](/pdfs/henryShacklet
 
 For most of my papers listed below, I also provide a link to a short summary of the project - these summaries are a bit technical and mainly intended as a brief explanation for people already familiar with the topic, as well as a way for me to record my most up-to-date perspective on the paper's results.
 
+# Research Positions
+* **Pappalardo Postdoctoral Fellow**, Massachusetts Institute of Technology (2024-2027)
+* **Pre-doctoral Researcher**, Flatiron Institute (01/2023-05/2023)
+  * Supervisor: Shiwei Zhang
+
 # Education    
-* Harvard University, PhD in Physics (2018-Present) 
+* Harvard University, PhD in Physics (2018-2024) 
   * Thesis advisor: Subir Sachdev
+  * Thesis: [Fractionalization and disorder in strongly correlated systems](pdfs/thesis.pdf)
 * Massachusetts Institute of Technology, BS's in Physics and Philosophy (2014-2018)         
   * Undergraduate thesis: [Diffusional Instabilities on Curved Manifolds](https://dspace.mit.edu/handle/1721.1/120212)
   * Thesis advisor: Mehran Kardar  
 # Publications and preprints:     
 - M. Christos, **H. Shackleton**, S. Sachdev, and Z.-X. Luo, *Deconfined quantum criticality of nodal d-wave superconductivity, Néel order and charge order on the square lattice at half-filling,* arXiv:2402.09502 (2024). [[link]](https://arxiv.org/abs/2402.09502)
 
-- L. E. Anderson, A. Laitinen, A. Zimmerman, T. Werkmeister, **H. Shackleton**, A. Kruchkov, T. Taniguchi, K. Watanabe, S. Sachdev, and P. Kim, *Magneto-Thermoelectric Transport in Graphene Quantum Dot with Strong Correlations*, arXiv:2401.08050 (2023). [[link]](https://arxiv.org/abs/2401.08050)
+- L. E. Anderson, A. Laitinen, A. Zimmerman, T. Werkmeister, **H. Shackleton**, A. Kruchkov, T. Taniguchi, K. Watanabe, S. Sachdev, and P. Kim, *Magneto-Thermoelectric Transport in Graphene Quantum Dot with Strong Correlations*, Phys. Rev. Lett. **132**, 246502 (2024), (*Editor’s Suggestion*). [[link]](https://arxiv.org/abs/2401.08050)
 
 - **H. Shackleton** and S. Sachdev, *Sign-problem-free effective models of triangular lattice quantum antiferromagnets*, arXiv:2311.01572 (2023). [[link]](https://arxiv.org/abs/2311.01572)
 
-- **H. Shackleton**, L. E. Anderson, P. Kim, and S. Sachdev, *Conductance and thermopower fluctuations in interacting quantum dots*, arXiv:2309.05741 (2023). [[link]](https://doi.org/10.48550/arXiv.2309.05741) [[summary]](/papers/graphenetheory)
+- **H. Shackleton**, L. E. Anderson, P. Kim, and S. Sachdev, *Conductance and thermopower fluctuations in interacting quantum dots*, Phys. Rev. B **109**, 235109 (2024). [[link]](https://doi.org/10.48550/arXiv.2309.05741) [[summary]](/papers/graphenetheory)
 
 - **H. Shackleton** and M. S. Scheurer, *An exactly solvable dissipative spin liquid*, Phys. Rev. B **109**, 085115 (2024). [[link]](https://doi.org/10.48550/arXiv.2307.05743) [[summary]](/papers/bilayer)
 
@@ -46,7 +52,9 @@ For most of my papers listed below, I also provide a link to a short summary of 
 - J. R. Frank, J. Guven, M. Kardar, and **H. Shackleton**, *Pinning of diffusional patterns by non-uniform curvature*, Europhysics Letters **127**, 48001 (2019). [[link]](https://doi.org/10.1209/0295-5075/127/48001) [[summary]](/papers/kardar) 
 
 # Presentations
-* (03/08/2024) "Variational wavefunctions for topologically ordered Fermi liquids" APS March Meeting 2024, contributed talk [[pdf]](/presentations/mar24APSContributed.pdf)
+* (06/03/2024) "Fractionalized Fermi Liquids: Mean-Field Theories, Instabilities, and Variational Wavefunctions," HQI-FQSP Perspectives of Fundamental Quantum Science [[pdf]](/presentations/jun24Riken.pdf)
+* (06/03/2024) "Variational wavefunctions for fractionalized Fermi liquids," EPiQS Postdoctoral Symposium [[pdf]](/presentations/jun24EPiQS.pdf)
+* (03/08/2024) "Variational wavefunctions for fractionalized Fermi liquids," APS March Meeting 2024, contributed talk [[pdf]](/presentations/mar24APSContributed.pdf)
 * (03/08/2024) "Conductance and thermopower fluctuations in interacting quantum dots," APS March Meeting 2024, invited talk [[pdf]](/presentations/mar24APSInvited.pdf)
 * (12/04/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," Perimeter Institute seminar [[pdf]](/presentations/dec23Perimeter.pdf)
 * (11/29/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," University of Illinois Urbana-Champaign seminar [[pdf]](/presentations/nov23UIUC.pdf)
@@ -62,7 +70,7 @@ For most of my papers listed below, I also provide a link to a short summary of 
 * (09/21/2020) "Numerical study of the random $t-J$ model with all-to-all interactions" Harvard University, group seminar [[pdf]](/presentations/aug20Harvard.pdf)
 * (06/15/2020) "Protection of parity-time symmetry in topological many-body systems," Harvard University, group seminar [[pdf]](/presentations/jun20Harvard.pdf)
 * (06/16/2018) "Turing patterns on deformed surfaces," Kardar-Fest, in celebration of Prof. Mehran Kardar's 60th birthday, contributed talk [[pdf]](/presentations/jun18Kardar.pdf)
-* 
+ 
 # Posters 
 * "Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet", Correlated Electron Systems Gordon Research Conference, June 2022 [[pdf]](/posters/grc.pdf)
 * "Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet", CIFAR Quantum Materials Summer School, May 2022 [[pdf]](/posters/cifar.pdf)
