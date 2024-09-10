@@ -103,4 +103,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
+<url>
+    <loc>https://tlienart.github.io/FranklinTemplates.jl/google2d93a2d6689ff1ec/</loc>
+    <lastmod>2024-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
 </urlset>
