@@ -2,7 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Henry Shackleton"
+author = "Leyna Shackleton"
 mintoclevel = 2
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
@@ -18,8 +18,8 @@ keep_path = ["google2d93a2d6689ff1ec.html"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
-website_title = "Henry Shackleton"
-website_descr = "Henry Shackleton's personal website"
+website_title = "Leyna Shackleton"
+website_descr = "Leyna Shackleton's personal website"
 website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
 
 +++
