@@ -9,11 +9,11 @@
 
   <channel>
     <title>
-      <![CDATA[  Henry Shackleton  ]]>
+      <![CDATA[  Leyna Shackleton  ]]>
     </title>
     <link> https://tlienart.github.io/FranklinTemplates.jl/ </link>
     <description>
-      <![CDATA[  Henry Shackleton&#39;s personal website  ]]>
+      <![CDATA[  Leyna Shackleton&#39;s personal website  ]]>
     </description>
     <atom:link
       href="https://tlienart.github.io/FranklinTemplates.jl/feed.xml"
@@ -35,7 +35,7 @@
   
   
   <atom:author>
-    <atom:name>Henry Shackleton</atom:name>
+    <atom:name>Leyna Shackleton</atom:name>
   </atom:author>
         
 </item>
@@ -54,7 +54,7 @@
   
   
   <atom:author>
-    <atom:name>Henry Shackleton</atom:name>
+    <atom:name>Leyna Shackleton</atom:name>
   </atom:author>
         
 </item>
