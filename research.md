@@ -17,14 +17,10 @@ A remarkable feature of phase transitions is the universal properties of their c
 * UV/IR mixing and unconventional scaling behavior in critical theories
 * Disordered quantum criticality
 
-# Open quantum systems
-An unavoidable feature in any physical realization of a quantum system is the coupling of its degrees of freedom to the environment. Although these interactions tend to act destructively on the physics of the isolated system, it is also possible to leverage the dissipative nature of these couplings to engineer intrinsically non-equilibrium behavior or as an efficient way of preparing quantum states. My interests in this topic include
-* Interplay between fractionalization and thermalization in strongly-correlated quantum systems
-* Exactly solvable models of open quantum dynamics
-
 # Numerical methods
 The difficulty of simulating large-scale strongly-interacting quantum systems is a major obstacle in uncovering the nature of uniquely quantum phenomenon. A close dialogue between analytic and numerical techniques is important for discovering new quantum many-body phenomena. In this direction, problems that I am interested in include
 * Sign-problem-free (efficiently simulatable) models of quantum criticality
-* Variational wavefunctions for topologically-ordered phases
+* Applications of neural networks to quantum many-body simulations, including neural quantum states and Monte Carlo methods
+
 
 

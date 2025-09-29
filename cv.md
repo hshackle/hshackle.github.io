@@ -10,9 +10,11 @@ tags = ["syntax", "code", "cv"]
 
 # CV
 
-My most up-to-date CV can be downloaded in pdf format [here](/pdfs/henryShackletonCV.pdf), and is also listed below. My Google Scholar page is linked [here](https://scholar.google.com/citations?user=VO6t9ZQAAAAJ&hl=en).
+My most up-to-date CV can be downloaded in pdf format [here](/pdfs/leynaShackletonCV.pdf), and is also listed below. My Google Scholar page is linked [here](https://scholar.google.com/citations?user=VO6t9ZQAAAAJ&hl=en).
 
-For most of my papers listed below, I also provide a link to a short summary of the project - these summaries are a bit technical and mainly intended as a brief explanation for people already familiar with the topic, as well as a way for me to record my most up-to-date perspective on the paper's results.
+For some of my papers listed below, I also provide a link to a short summary of the project - these summaries are a bit technical and mainly intended as a brief explanation for people already familiar with the topic, as well as a way for me to record my most up-to-date perspective on the paper's results.
+
+Several papers of mine are listed under my old name, Henry Shackleton.
 
 # Research Positions
 * **Pappalardo Postdoctoral Fellow**, Massachusetts Institute of Technology (2024-2027)
@@ -27,29 +29,40 @@ For most of my papers listed below, I also provide a link to a short summary of 
   * Undergraduate thesis: [Diffusional Instabilities on Curved Manifolds](https://dspace.mit.edu/handle/1721.1/120212)
   * Thesis advisor: Mehran Kardar  
 # Publications and preprints:     
-- M. Christos, **H. Shackleton**, S. Sachdev, and Z.-X. Luo, *Deconfined quantum criticality of nodal d-wave superconductivity, Néel order and charge order on the square lattice at half-filling,*  Phys. Rev. Research *6*, 033018 (2024). [[link]](https://arxiv.org/abs/2402.09502)
+- Y. Zhang, **L. Shackleton**, T. Senthil, *Pathways from a chiral superconductor to a composite Fermi liquid*, arXiv:2509.21591. [[link]](https://arxiv.org/abs/2509.21591)
+ 
+- **L. Shackleton**, *Twisted quantum doubles are sign problem-free*, arXiv:2509.03708. [[link]](https://arxiv.org/abs/2509.03708)
 
-- L. E. Anderson, A. Laitinen, A. Zimmerman, T. Werkmeister, **H. Shackleton**, A. Kruchkov, T. Taniguchi, K. Watanabe, S. Sachdev, and P. Kim, *Magneto-Thermoelectric Transport in Graphene Quantum Dot with Strong Correlations*, Phys. Rev. Lett. **132**, 246502 (2024), (*Editor’s Suggestion*). [[link]](https://arxiv.org/abs/2401.08050)
+- A. Wietek, L. Staszewski, M. Ulaga, P.L. Ebert, H. Karlsson, S. Sarkar, **L. Shackleton**, A. Sinha, R.D. Soares, *XDiag: Exact Diagonalization for Quantum Many-Body Systems*, arXiv:2505.02901. [[link]](https://arxiv.org/abs/2505.02901)
 
-- **H. Shackleton** and S. Sachdev, *Sign-problem-free effective models of triangular lattice quantum antiferromagnets*, arXiv:2311.01572 (2023). [[link]](https://arxiv.org/abs/2311.01572)
+- G. Gyawali, **L. Shackleton**, Z.-X. Luo, and M. Lawler, *Emergent coding phases and hardware-tailored quantum codes*, arXiv:2503.15483. [[link]](https://arxiv.org/abs/2503.15483)
 
-- **H. Shackleton**, L. E. Anderson, P. Kim, and S. Sachdev, *Conductance and thermopower fluctuations in interacting quantum dots*, Phys. Rev. B **109**, 235109 (2024). [[link]](https://doi.org/10.48550/arXiv.2309.05741) [[summary]](/papers/graphenetheory)
 
-- **H. Shackleton** and M. S. Scheurer, *An exactly solvable dissipative spin liquid*, Phys. Rev. B **109**, 085115 (2024). [[link]](https://doi.org/10.48550/arXiv.2307.05743) [[summary]](/papers/bilayer)
+- **L. Shackleton** and S. Zhang, *Emergent polaronic correlations in doped spin liquids*, arXiv:2408.02190. [[link]](https://arxiv.org/abs/2408.02190)
 
-- M. Christos, Z.-X. Luo, **H. Shackleton**, Y.-H. Zhang, M. S. Scheurer, and S. Sachdev, *A Model of d-Wave Superconductivity, Antiferromagnetism, and Charge Order on the Square Lattice*, Proceedings of the National Academy of Sciences **120**, e2302701120 (2023). [[link]](https://doi.org/10.1073/pnas.2302701120) [[summary]](/papers/ancilla)
+- M. Christos, **L. Shackleton**, S. Sachdev, and Z.-X. Luo, *Deconfined quantum criticality of nodal d-wave superconductivity, Néel order and charge order on the square lattice at half-filling,*  Phys. Rev. Research *6*, 033018 (2024). [[link]](https://arxiv.org/abs/2402.09502)
 
-- **H. Shackleton** and S. Sachdev, *Anisotropic Deconfined Criticality in Dirac Spin Liquids*, Journal of High Energy Physics **2022**, 141 (2022). [[link]](https://doi.org/10.1007/JHEP07(2022)141) [[summary]](/papers/dqcp2) 
+- L. E. Anderson, A. Laitinen, A. Zimmerman, T. Werkmeister, **L. Shackleton**, A. Kruchkov, T. Taniguchi, K. Watanabe, S. Sachdev, and P. Kim, *Magneto-Thermoelectric Transport in Graphene Quantum Dot with Strong Correlations*, Phys. Rev. Lett. **132**, 246502 (2024), (*Editor’s Suggestion*). [[link]](https://arxiv.org/abs/2401.08050)
 
-- **H. Shackleton**, A. Thomson, and S. Sachdev, *Deconfined Criticality and a Gapless $\mathbb{Z}_2$ Spin Liquid in the Square-Lattice Antiferromagnet*, Phys. Rev. B **104**, 045110 (2021). [[link]](https://doi.org/10.1103/PhysRevB.104.045110) [[summary]](/papers/dqcp1) 
+- **L. Shackleton** and S. Sachdev, *Sign-problem-free effective models of triangular lattice quantum antiferromagnets*, arXiv:2311.01572 (2023). [[link]](https://arxiv.org/abs/2311.01572)
 
-- **H. Shackleton**, A. Wietek, A. Georges, and S. Sachdev, *Quantum Phase Transition at Nonzero Doping in a Random t-J Model*, Phys. Rev. Lett. **126**, 136602 (2021). [[link]](https://doi.org/10.1103/PhysRevLett.126.136602) [[summary]](/papers/tj) 
+- **L. Shackleton**, L. E. Anderson, P. Kim, and S. Sachdev, *Conductance and thermopower fluctuations in interacting quantum dots*, Phys. Rev. B **109**, 235109 (2024). [[link]](https://doi.org/10.48550/arXiv.2309.05741) [[summary]](/papers/graphenetheory)
 
-- **H. Shackleton** and M. S. Scheurer, *Protection of Parity-Time Symmetry in Topological Many-Body Systems: Non-Hermitian Toric Code and Fracton Models*, Phys. Rev. Research **2**, 033022 (2020). [[link]](https://doi.org/10.1103/PhysRevResearch.2.033022) [[summary]](/papers/tc)
+- **L. Shackleton** and M. S. Scheurer, *An exactly solvable dissipative spin liquid*, Phys. Rev. B **109**, 085115 (2024). [[link]](https://doi.org/10.48550/arXiv.2307.05743) [[summary]](/papers/bilayer)
 
-- Nivedita, **H. Shackleton**, and S. Sachdev, *Spectral Form Factors of Clean and Random Quantum Ising Chains*, Phys. Rev. E **101**, 042136 (2020). [[pdf]](https://doi.org/10.1103/PhysRevE.101.042136) [[summary]](/papers/isingsff)
+- M. Christos, Z.-X. Luo, **L. Shackleton**, Y.-H. Zhang, M. S. Scheurer, and S. Sachdev, *A Model of d-Wave Superconductivity, Antiferromagnetism, and Charge Order on the Square Lattice*, Proceedings of the National Academy of Sciences **120**, e2302701120 (2023). [[link]](https://doi.org/10.1073/pnas.2302701120) [[summary]](/papers/ancilla)
 
-- J. R. Frank, J. Guven, M. Kardar, and **H. Shackleton**, *Pinning of diffusional patterns by non-uniform curvature*, Europhysics Letters **127**, 48001 (2019). [[link]](https://doi.org/10.1209/0295-5075/127/48001) [[summary]](/papers/kardar) 
+- **L. Shackleton** and S. Sachdev, *Anisotropic Deconfined Criticality in Dirac Spin Liquids*, Journal of High Energy Physics **2022**, 141 (2022). [[link]](https://doi.org/10.1007/JHEP07(2022)141) [[summary]](/papers/dqcp2) 
+
+- **L. Shackleton**, A. Thomson, and S. Sachdev, *Deconfined Criticality and a Gapless $\mathbb{Z}_2$ Spin Liquid in the Square-Lattice Antiferromagnet*, Phys. Rev. B **104**, 045110 (2021). [[link]](https://doi.org/10.1103/PhysRevB.104.045110) [[summary]](/papers/dqcp1) 
+
+- **L. Shackleton**, A. Wietek, A. Georges, and S. Sachdev, *Quantum Phase Transition at Nonzero Doping in a Random t-J Model*, Phys. Rev. Lett. **126**, 136602 (2021). [[link]](https://doi.org/10.1103/PhysRevLett.126.136602) [[summary]](/papers/tj) 
+
+- **L. Shackleton** and M. S. Scheurer, *Protection of Parity-Time Symmetry in Topological Many-Body Systems: Non-Hermitian Toric Code and Fracton Models*, Phys. Rev. Research **2**, 033022 (2020). [[link]](https://doi.org/10.1103/PhysRevResearch.2.033022) [[summary]](/papers/tc)
+
+- Nivedita, **L. Shackleton**, and S. Sachdev, *Spectral Form Factors of Clean and Random Quantum Ising Chains*, Phys. Rev. E **101**, 042136 (2020). [[pdf]](https://doi.org/10.1103/PhysRevE.101.042136) [[summary]](/papers/isingsff)
+
+- J. R. Frank, J. Guven, M. Kardar, and **L. Shackleton**, *Pinning of diffusional patterns by non-uniform curvature*, Europhysics Letters **127**, 48001 (2019). [[link]](https://doi.org/10.1209/0295-5075/127/48001) [[summary]](/papers/kardar) 
 
 # Presentations
 * (06/03/2024) "Fractionalized Fermi Liquids: Mean-Field Theories, Instabilities, and Variational Wavefunctions," HQI-FQSP Perspectives of Fundamental Quantum Science [[pdf]](/presentations/jun24Riken.pdf)
