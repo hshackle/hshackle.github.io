@@ -10,7 +10,7 @@ tags = ["syntax", "code", "cv"]
 
 # CV
 
-My most up-to-date CV can be downloaded in pdf format [here](/pdfs/leynaShackletonCV.pdf), and is also listed below. My Google Scholar page is linked [here](https://scholar.google.com/citations?user=VO6t9ZQAAAAJ&hl=en).
+My most up-to-date CV can be downloaded in [pdf](pdf) format [here](/pdfs/leynaShackletonCV.pdf), and is also listed below. My Google Scholar page is linked [here](https://scholar.google.com/citations?user=VO6t9ZQAAAAJ&hl=en).
 
 For some of my papers listed below, I also provide a link to a short summary of the project - these summaries are a bit technical and mainly intended as a brief explanation for people already familiar with the topic, as well as a way for me to record my most up-to-date perspective on the paper's results.
 
@@ -23,10 +23,10 @@ Several papers of mine are listed under my old name, Henry Shackleton.
 
 # Education    
 * Harvard University, PhD in Physics (2018-2024) 
-  * Thesis: [Fractionalization and disorder in strongly correlated systems](pdfs/thesis.pdf)
+  * Thesis: [Fractionalization and disorder in strongly correlated systems](/pdfs/thesis.pdf)
   * Thesis advisor: Subir Sachdev
 * Massachusetts Institute of Technology, BS's in Physics and Philosophy (2014-2018)         
-  * Undergraduate thesis: [Diffusional Instabilities on Curved Manifolds](https://dspace.mit.edu/handle/1721.1/120212)
+  * Undergraduate thesis: [Diffusional Instabilities on Curved Manifolds](/pdfs/undergradThesis.pdf)
   * Thesis advisor: Mehran Kardar  
 # Publications and preprints:     
 - Y. Zhang, **L. Shackleton**, T. Senthil, *Pathways from a chiral superconductor to a composite Fermi liquid*, arXiv:2509.21591. [[link]](https://arxiv.org/abs/2509.21591)
