@@ -2,12 +2,14 @@
 
 Broadly speaking, my research interests pertain to emergent collective phenomena in quantum many-body systems.
 
-# Quantum spin liquids
-Quantum spin liquids are exotic phases of matter that arise when strong quantum fluctuations in spin systems prevent the emergence of conventional order at zero temperature. These states have garnered considerable interest due to their many surprising features, such as emergent anyon excitations and topological order.
-I am interested in several aspects of this, such as
-* Coexistence of spin liquids with charge fluctuations or metallic phases
-* Phase transitions between spin liquids and conventionally ordered phases
+## Topological Order
+ 
+In contrast to conventional phases of matter, which are identified by the spontaneous breaking of global symmetries, topologically-ordered phases of matter are distinguished through non-local order parameters and emergent anyon excitations. These phases support a plethora of exotic phenomena, including unconventional instabilities and phase transitions. My interests in this field include
+
 * Interplay between global symmetries and topological order
+* Mechanisms for topological order, such as the fractional quantum anomalous Hall effect, in 2D materials
+* Superconducting instabilities in topologically-ordered phases
+* Topological order in frustrated magnetic systems
 
 # Quantum criticality
 
