@@ -29,11 +29,13 @@ Several papers of mine are listed under my old name, Henry Shackleton.
   * Undergraduate thesis: [Diffusional Instabilities on Curved Manifolds](/pdfs/undergradThesis.pdf)
   * Thesis advisor: Mehran Kardar  
 # Publications and preprints:     
-- Y. Zhang, **L. Shackleton**, T. Senthil, *Pathways from a chiral superconductor to a composite Fermi liquid*, arXiv:2509.21591. [[link]](https://arxiv.org/abs/2509.21591)
- 
-- **L. Shackleton**, *Twisted quantum doubles are sign problem-free*, arXiv:2509.03708. [[link]](https://arxiv.org/abs/2509.03708)
+- A. Feuerpfeil, **L. Shackleton**, A. Maity, R. Thomale, S. Sachdev, and Y. Iqbal, *Unifying Dirac Spin Liquids on Square and Shastry-Sutherland Lattices via Fermionic Deconfined Criticality*, arXiv:2601.19980. [[link]](https://arxiv.org/abs/2601.19980)
 
-- A. Wietek, L. Staszewski, M. Ulaga, P.L. Ebert, H. Karlsson, S. Sarkar, **L. Shackleton**, A. Sinha, R.D. Soares, *XDiag: Exact Diagonalization for Quantum Many-Body Systems*, arXiv:2505.02901. [[link]](https://arxiv.org/abs/2505.02901)
+- Y. Zhang, **L. Shackleton**, T. Senthil, *Pathways from a chiral superconductor to a composite Fermi liquid*, Phys. Rev. B **113**, 144510 (2026). [[link]](https://arxiv.org/abs/2509.21591)
+ 
+- **L. Shackleton**, *Twisted quantum doubles are sign problem-free*, Phys. Rev. Lett. **136**, 186503 (2026). [[link]](https://arxiv.org/abs/2509.03708)
+
+- A. Wietek, L. Staszewski, M. Ulaga, P.L. Ebert, H. Karlsson, S. Sarkar, **L. Shackleton**, A. Sinha, R.D. Soares, *XDiag: Exact Diagonalization for Quantum Many-Body Systems*, SciPost Phys. Codebases **70** (2026). [[link]](https://arxiv.org/abs/2505.02901)
 
 - G. Gyawali, **L. Shackleton**, Z.-X. Luo, and M. Lawler, *Emergent coding phases and hardware-tailored quantum codes*, arXiv:2503.15483. [[link]](https://arxiv.org/abs/2503.15483)
 
@@ -65,6 +67,7 @@ Several papers of mine are listed under my old name, Henry Shackleton.
 - J. R. Frank, J. Guven, M. Kardar, and **L. Shackleton**, *Pinning of diffusional patterns by non-uniform curvature*, Europhysics Letters **127**, 48001 (2019). [[link]](https://doi.org/10.1209/0295-5075/127/48001) [[summary]](/papers/kardar) 
 
 # Presentations
+* (03/2026) "Twisted Quantum Doubles are Sign Problem-Free," APS Global Physics Summit 2026 (March Meeting), Denver
 * (06/03/2024) "Fractionalized Fermi Liquids: Mean-Field Theories, Instabilities, and Variational Wavefunctions," HQI-FQSP Perspectives of Fundamental Quantum Science [[pdf]](/presentations/jun24Riken.pdf)
 * (06/03/2024) "Variational wavefunctions for fractionalized Fermi liquids," EPiQS Postdoctoral Symposium [[pdf]](/presentations/jun24EPiQS.pdf)
 * (03/08/2024) "Variational wavefunctions for fractionalized Fermi liquids," APS March Meeting 2024, contributed talk [[pdf]](/presentations/mar24APSContributed.pdf)
@@ -85,6 +88,9 @@ Several papers of mine are listed under my old name, Henry Shackleton.
 * (06/16/2018) "Turing patterns on deformed surfaces," Kardar-Fest, in celebration of Prof. Mehran Kardar's 60th birthday, contributed talk [[pdf]](/presentations/jun18Kardar.pdf)
  
 # Posters 
+* "Twisted Quantum Doubles are Sign Problem-Free", Correlated Electron Systems Gordon Research Conference, Mount Holyoke College, June 2026 (upcoming)
+* "Twisted Quantum Doubles are Sign Problem-Free", 2026 Workshop on Precision Many Body Physics, Warren House, London, June 2026
+* "Twisted Quantum Doubles are Sign Problem-Free", Ultra-Quantum Matter Conference, Simons Foundation, New York, February 2026
 * "Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet", Correlated Electron Systems Gordon Research Conference, June 2022 [[pdf]](/posters/grc.pdf)
 * "Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet", CIFAR Quantum Materials Summer School, May 2022 [[pdf]](/posters/cifar.pdf)
 * "Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet", IMPRS-MPHQ-BeyondC Summer School, July 2021 [[pdf]](/posters/imprs.pdf)
