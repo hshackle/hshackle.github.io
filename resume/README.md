@@ -114,3 +114,11 @@ Changed the Franklin deployment call to `optimize(clear=true)` so each publish
 regenerates the output from source. The local clean build regenerated the final
 CV page and excluded private working files; live checks follow the corrected
 deployment.
+
+The clean rebuild alone did not resolve publication. Inspection of the deploy
+action log identified its forced checkout of the source revision, which resets
+tracked `__site` files after the build. The workflow now preserves the generated
+website in an ignored `.deploy-site` directory before invoking that action.
+The staging directory is also excluded from Franklin inputs. A bounded Git
+fixture reproduced the overwrite and confirmed that the untracked snapshot
+survives it. The supplied assets and editable sources remain unchanged.

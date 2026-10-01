@@ -13,3 +13,6 @@ Manifest.toml
 /resume/*.pdf
 /resume-updated.zip
 /resume.zip
+
+# Temporary CI publication snapshot, independent of tracked generated output.
+/.deploy-site/

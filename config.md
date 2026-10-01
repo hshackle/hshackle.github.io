@@ -13,7 +13,7 @@ mintoclevel = 2
 # these files might be copied and, if markdown, processed by Franklin which
 # you might not want. Indicate directories by ending the name with a `/`.
 # Base files such as LICENSE.md and README.md are ignored by default.
-ignore = ["node_modules/", "resume/", "resume.zip", "tmp/", "AGENTS.md"]
+ignore = ["node_modules/", "resume/", "resume.zip", "tmp/", ".deploy-site/", "AGENTS.md"]
 keep_path = ["google2d93a2d6689ff1ec.html"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)

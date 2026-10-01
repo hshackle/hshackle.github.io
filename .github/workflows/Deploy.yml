@@ -39,9 +39,13 @@ jobs:
             using NodeJS; run(`$(npm_cmd()) install highlight.js`);
             using Franklin;
             optimize(clear=true)'
+    # The v3 deploy action force-checks out the source revision. Preserve the
+    # freshly built output outside the tracked __site files before that step.
+    - name: Preserve built website
+      run: cp -a __site .deploy-site
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: __site
+        FOLDER: .deploy-site
