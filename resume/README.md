@@ -158,3 +158,11 @@ The authorized push publishes the two CV sources and rebuilt public PDF;
 live deployment verification follows.
 CV SHA-256: `212e45c62154590cd39c1f14875439a121e0939b3dabdc1d963ec830527ea284`.
 Next action remains the poster reconciliation recorded above.
+
+Publication verified: `8c87aa98` is published. Franklin
+[36942341678](https://github.com/hshackle/hshackle.github.io/actions/runs/36942341678)
+and Pages
+[36942517228](https://github.com/hshackle/hshackle.github.io/actions/runs/36942517228)
+completed successfully. The live presentation page shows the revised labels
+and was visually inspected; the downloaded CV matches the checksum above.
+The working tree was clean before this documentation-only handoff note.
