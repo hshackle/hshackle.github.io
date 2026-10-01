@@ -107,3 +107,10 @@ Final CV SHA-256: `81141187b39741abbbb9c297a375eca6bdd13fe6a8fd6f6b07accaff3dbfb
 Open issue / next action: posters remain outside this presentation pass. At the
 next poster update, verify the stale June 2026 upcoming entry and reconcile the
 Ultra-Quantum Matter date and poster coverage between the two CV versions.
+
+Deployment follow-up: the first successful workflow carried forward the tracked
+CV HTML instead of regenerating it, although it copied the new slide assets.
+Changed the Franklin deployment call to `optimize(clear=true)` so each publish
+regenerates the output from source. The local clean build regenerated the final
+CV page and excluded private working files; live checks follow the corrected
+deployment.
