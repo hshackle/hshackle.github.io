@@ -122,3 +122,18 @@ website in an ignored `.deploy-site` directory before invoking that action.
 The staging directory is also excluded from Franklin inputs. A bounded Git
 fixture reproduced the overwrite and confirmed that the untracked snapshot
 survives it. The supplied assets and editable sources remain unchanged.
+
+Publication verified on 2026-10-01: content commit `7df265d690354beb4b77a08715b6b8cd1de7b905`
+and deployment fixes through `345654229a` are published. Franklin workflow
+[36911909776](https://github.com/hshackle/hshackle.github.io/actions/runs/36911909776)
+and Pages deployment
+[36912148173](https://github.com/hshackle/hshackle.github.io/actions/runs/36912148173)
+both completed successfully, with `gh-pages` at `f25364e73c`.
+The [live CV](https://hshackle.github.io/cv/) shows the final presentation records
+and 23 working slide URLs (HTTP 200). All six new slide PDFs and the CV download
+match their local SHA-256 checksums; the published presentation page was also
+visually inspected. The source checkout was clean before adding this handoff
+note; temporary slide exports and QA images were removed, while the supplied
+originals and preserved import remain local. This documentation-only follow-up
+is excluded from the website and does not require another deployment.
+Next action remains the poster reconciliation described above.
