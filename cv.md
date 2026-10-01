@@ -35,7 +35,7 @@ Several papers of mine are listed under my old name, Henry Shackleton.
 
 - A. Wietek, L. Staszewski, M. Ulaga, P.L. Ebert, H. Karlsson, S. Sarkar, **L. Shackleton**, A. Sinha, R.D. Soares, *XDiag: Exact Diagonalization for Quantum Many-Body Systems*, SciPost Phys. Codebases **70** (2026). [[link]](https://arxiv.org/abs/2505.02901)
 
-- G. Gyawali, **L. Shackleton**, Z.-X. Luo, and M. Lawler, *Emergent coding phases and hardware-tailored quantum codes*, arXiv:2503.15483. [[link]](https://arxiv.org/abs/2503.15483)
+- G. Gyawali, **L. Shackleton**, Z.-X. Luo, and M. Lawler, *The source of hardware-tailored codes and coding phases*, arXiv:2503.15483. [[link]](https://arxiv.org/abs/2503.15483)
 
 
 - **L. Shackleton** and S. Zhang, *Emergent polaronic correlations in doped spin liquids*, arXiv:2408.02190. [[link]](https://arxiv.org/abs/2408.02190)
@@ -44,7 +44,7 @@ Several papers of mine are listed under my old name, Henry Shackleton.
 
 - L. E. Anderson, A. Laitinen, A. Zimmerman, T. Werkmeister, **L. Shackleton**, A. Kruchkov, T. Taniguchi, K. Watanabe, S. Sachdev, and P. Kim, *Magneto-Thermoelectric Transport in Graphene Quantum Dot with Strong Correlations*, Phys. Rev. Lett. **132**, 246502 (2024), (*Editor’s Suggestion*). [[link]](https://arxiv.org/abs/2401.08050)
 
-- **L. Shackleton** and S. Sachdev, *Sign-problem-free effective models of triangular lattice quantum antiferromagnets*, arXiv:2311.01572 (2023). [[link]](https://arxiv.org/abs/2311.01572)
+- **L. Shackleton** and S. Sachdev, *Sign-problem-free effective models of triangular lattice quantum antiferromagnets*, Phys. Rev. B **111**, 075101 (2025). [[link]](https://arxiv.org/abs/2311.01572)
 
 - **L. Shackleton**, L. E. Anderson, P. Kim, and S. Sachdev, *Conductance and thermopower fluctuations in interacting quantum dots*, Phys. Rev. B **109**, 235109 (2024). [[link]](https://doi.org/10.48550/arXiv.2309.05741)
 
@@ -65,13 +65,17 @@ Several papers of mine are listed under my old name, Henry Shackleton.
 - J. R. Frank, J. Guven, M. Kardar, and **L. Shackleton**, *Pinning of diffusional patterns by non-uniform curvature*, Europhysics Letters **127**, 48001 (2019). [[link]](https://doi.org/10.1209/0295-5075/127/48001)
 
 # Presentations
-* (08/2026) "Mapping the quantum limits of classical simulatability," A Multicultural Approach to Fractionalization and Electronic Correlations in 2D Materials, Nordita, Stockholm
-* (05/2026) "Mapping the quantum limits of classical simulatability," MIT Pappalardo Symposium
-* (05/2026) "Mapping the quantum limits of classical simulatability," 130th Statistical Mechanics Conference, Rutgers University
+* (10/2026) "Mapping the quantum limits of classical simulatability," NYU Center for Quantum Phenomena seminar (upcoming, October 20)
+* (09/2026) "Neural-Network Variational Monte Carlo for Anyons," Artificial Intelligence at the Quantum Frontier, KITP, UC Santa Barbara [[pdf]](/presentations/sep26KITP.pdf)
+* (09/2026) "Anyonic neural quantum states," University of Minnesota, condensed matter seminar [[pdf]](/presentations/sep26MinnesotaSeminar.pdf)
+* (09/2026) "Mapping the quantum limits of classical simulatability," University of Minnesota, physics colloquium [[pdf]](/presentations/sep26MinnesotaColloquium.pdf)
+* (08/2026) "Mapping the quantum limits of classical simulatability," A Multicultural Approach to Fractionalization and Electronic Correlations in 2D Materials, Nordita, Stockholm [[pdf]](/presentations/aug26Nordita.pdf)
+* (05/2026) "Mapping the quantum limits of classical simulatability," MIT Pappalardo Symposium [[pdf]](/presentations/may26Pappalardo.pdf)
+* (05/2026) "Mapping the quantum limits of classical simulatability," 130th Statistical Mechanics Conference, Rutgers University [[pdf]](/presentations/may26Rutgers.pdf)
 * (03/2026) "Twisted quantum doubles are sign problem-free," APS Global Physics Summit 2026 (March Meeting), Denver
 * (10/2025) "Twisted quantum doubles are sign problem-free," NUS Physics Condensed Matter Series
-* (10/2025) "Twisted quantum doubles are sign problem-free," Harvard Kids seminar
-* (10/2025) "Twisted quantum doubles are sign problem-free," MIT Condensed Matter Physics Seminar
+* (09/2025) "Twisted quantum doubles are sign problem-free," Harvard Kids seminar
+* (09/2025) "Twisted quantum doubles are sign problem-free," MIT Condensed Matter Physics Seminar
 * (06/2024) "Fractionalized Fermi liquids: mean-field theories, instabilities, and variational wavefunctions," HQI-FQSP Perspectives of Fundamental Quantum Science [[pdf]](/presentations/jun24Riken.pdf)
 * (06/2024) "Variational wavefunctions for fractionalized Fermi liquids," EPiQS Postdoctoral Symposium [[pdf]](/presentations/jun24EPiQS.pdf)
 * (03/2024) "Variational wavefunctions for fractionalized Fermi liquids," APS March Meeting 2024, contributed talk [[pdf]](/presentations/mar24APSContributed.pdf)
@@ -99,4 +103,3 @@ Several papers of mine are listed under my old name, Henry Shackleton.
 * "Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet", Correlated Electron Systems Gordon Research Conference, June 2022 [[pdf]](/posters/grc.pdf)
 * "Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet", CIFAR Quantum Materials Summer School, May 2022 [[pdf]](/posters/cifar.pdf)
 * "Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet", IMPRS-MPHQ-BeyondC Summer School, July 2021 [[pdf]](/posters/imprs.pdf)
-

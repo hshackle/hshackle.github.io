@@ -1,0 +1,119 @@
+\PassOptionsToPackage{pdfpagelabels=false}{hyperref} \documentclass[12pt,a4paper]{moderncv}
+\usepackage{lmodern}
+
+\usepackage[colorlinks=true, unicode]{hyperref}  
+ 
+\usepackage{doi}
+\moderncvstyle{classic}
+\moderncvcolor{blue}
+\usepackage{amssymb}
+\setlength{\hintscolumnwidth}{3.3cm} 
+\newcommand{\strechman}{\vspace{0.1em}}
+\newcommand{\spce}{\vspace{0.8em}} 
+\patchcmd{\makeletterclosing}{Enclosure}{Anlagen}{}{} 
+\usepackage{soul}
+\usepackage{needspace}
+\usepackage[scale=0.8]{geometry}
+\usepackage{multibib}
+\newcites{preprint}{ }
+\recomputelengths
+\hypersetup{colorlinks=true,linkcolor=color1,urlcolor=color1,citecolor=color1}
+%\usepackage{natbib}
+
+\name{Leyna}{Shackleton}
+
+\email{lshackle@mit.edu}
+\homepage{hshackle.github.io}
+
+\begin{document}
+
+\makecvtitle
+
+\section{Research Positions}
+\cventry{07/2024 - Present}{Pappalardo Postdoctoral Fellow}{Massachusetts Institute of Technology}{Cambridge}{}{}
+\cventry{01/2023 - 05/2023}{Pre-Doctoral Researcher}{Flatiron Institute, Center for Computational Quantum Physics}{New York}{}{Supervisor: Shiwei Zhang}
+
+
+\section{Education}
+\cventry{09/2018 - 05/2024}{PhD in Physics}{Harvard University}{Cambridge}{}{Thesis: \textit{Fractionalization and disorder in strongly correlated systems} \\ Advisor: Subir Sachdev} % arguments 3 to 6 can be left empty
+\cventry{09/2014 - 06/2018}{B.S's in Physics and Philosophy}{Massachusetts Institute of Technology}{Cambridge}{}{Thesis: \textit{Diffusional Instabilities on Curved Manifolds} \\ Advisor: Mehran Kardar}
+
+%\section{Computational Experience}
+%\cvline{Languages}{C++, Julia (proficient), Mathematica, Python, SageMath (familiar)}
+%\cvline{Tools}{Linux, Git, Slurm, OpenMPI, VTune profiler}
+\renewcommand*{\bibliographyhead}[1]{}
+\AtBeginEnvironment{thebibliography}{\interlinepenalty=10000}
+\makeatletter
+\renewcommand\@biblabel[1]{}
+\makeatother
+
+\section{Preprints}
+\nocitepreprint{*}
+\bibliographystylepreprint{apsrev4-1_custom}
+\bibliographypreprint{preprints}
+
+\section{Publications}
+\nocite{*}
+\bibliographystyle{apsrev4-1_custom}
+\bibliography{publications}
+
+\clearpage
+\section{Presentations}
+\cvline{10/20/2026}{``Mapping the quantum limits of classical simulatability,'' NYU Center for Quantum Phenomena seminar (upcoming)}
+\cvline{09/30/2026}{``Neural-Network Variational Monte Carlo for Anyons,'' Artificial Intelligence at the Quantum Frontier, KITP, UC Santa Barbara \href{https://hshackle.github.io/presentations/sep26KITP.pdf}{[slides]}}
+\cvline{09/25/2026}{``Anyonic neural quantum states,'' University of Minnesota, condensed matter seminar \href{https://hshackle.github.io/presentations/sep26MinnesotaSeminar.pdf}{[slides]}}
+\cvline{09/24/2026}{``Mapping the quantum limits of classical simulatability,'' University of Minnesota, physics colloquium \href{https://hshackle.github.io/presentations/sep26MinnesotaColloquium.pdf}{[slides]}}
+\cvline{08/24/2026}{``Mapping the quantum limits of classical simulatability,'' A Multicultural Approach to Fractionalization and Electronic Correlations in 2D Materials, Nordita, Stockholm \href{https://hshackle.github.io/presentations/aug26Nordita.pdf}{[slides]}}
+\cvline{05/14/2026}{``Mapping the quantum limits of classical simulatability,'' MIT Pappalardo Symposium \href{https://hshackle.github.io/presentations/may26Pappalardo.pdf}{[slides]}}
+\cvline{05/12/2026}{``Mapping the quantum limits of classical simulatability,'' 130th Statistical Mechanics Conference, Rutgers University \href{https://hshackle.github.io/presentations/may26Rutgers.pdf}{[slides]}}
+\cvline{03/18/2026}{``Twisted quantum doubles are sign problem-free,'' APS Global Physics Summit 2026 (March Meeting), Denver}
+\cvline{10/24/2025}{``Twisted quantum doubles are sign problem-free,'' NUS Physics Condensed Matter Series}
+\cvline{09/20/2025}{``Twisted quantum doubles are sign problem-free,'' Harvard Kids seminar}
+\cvline{09/19/2025}{``Twisted quantum doubles are sign problem-free,'' MIT Condensed Matter Physics Seminar}
+\cvline{06/2024}{``Fractionalized Fermi liquids: mean-field theories, instabilities, and variational wavefunctions,'' HQI-FQSP Perspectives of Fundamental Quantum Science \href{https://hshackle.github.io/presentations/jun24Riken.pdf}{[slides]}}
+\cvline{06/2024}{``Variational wavefunctions for fractionalized Fermi liquids,'' EPiQS Postdoctoral Symposium \href{https://hshackle.github.io/presentations/jun24EPiQS.pdf}{[slides]}}
+\cvline{03/2024}{``Variational wavefunctions for fractionalized Fermi liquids,'' APS March Meeting 2024, contributed talk \href{https://hshackle.github.io/presentations/mar24APSContributed.pdf}{[slides]}}
+\cvline{03/2024}{``Conductance and thermopower fluctuations in interacting quantum dots,'' APS March Meeting 2024, invited talk \href{https://hshackle.github.io/presentations/mar24APSInvited.pdf}{[slides]}}
+\cvline{12/04/2023}{``Models of deconfined criticality on square and triangular lattice antiferromagnets,'' Perimeter Institute seminar}
+\cvline{11/29/2023}{``Models of deconfined criticality on square and triangular lattice antiferromagnets,'' University of Illinois Urbana-Champaign seminar \href{https://hshackle.github.io/presentations/nov23UIUC.pdf}{[slides]}}
+\cvline{11/28/2023}{``Models of deconfined criticality on square and triangular lattice antiferromagnets,'' Harvard Kids seminar \href{https://hshackle.github.io/presentations/nov23Kids.pdf}{[slides]}}
+\cvline{11/15/2023}{``Sign-problem-free effective models for triangular lattice antiferromagnets,'' Flatiron Institute seminar \href{https://hshackle.github.io/presentations/nov23Flatiron.pdf}{[slides]}}
+\cvline{06/12/2023}{``An exactly solvable dissipative spin liquid,'' University of Innsbruck, group seminar \href{https://hshackle.github.io/presentations/jun23Innsbruck.pdf}{[slides]}}
+\cvline{05/23/2023}{``Variational wavefunctions for the pseudogap metal,'' Flatiron Institute, predoctoral researcher presentation \href{https://hshackle.github.io/presentations/may23Flatiron.pdf}{[slides]}}
+\cvline{03/10/2023}{``Sign-problem-free effective models of spin-1/2 Heisenberg antiferromagnetism on the triangular lattice,'' APS March Meeting 2023, contributed talk \href{https://hshackle.github.io/presentations/mar23APS.pdf}{[slides]}}
+\cvline{02/08/2023}{``Paramagnon fractionalization theory of the cuprate pseudogap,'' Flatiron Institute, Quantum Monte Carlo seminar \href{https://hshackle.github.io/presentations/feb23Flatiron.pdf}{[slides]}}
+\cvline{11/06/2022}{``Sign-problem-free effective models of triangular lattice antiferromagnetism,'' Harvard University, group seminar \href{https://hshackle.github.io/presentations/nov22Harvard.pdf}{[slides]}}
+\cvline{03/17/2022}{``Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet,'' APS March Meeting 2022, contributed talk \href{https://hshackle.github.io/presentations/mar22APS.pdf}{[slides]}}
+\cvline{03/19/2021}{``Protection of parity-time symmetry in topological many-body systems,'' APS March Meeting 2021, contributed talk \href{https://hshackle.github.io/presentations/mar21APS.pdf}{[slides]}}
+\cvline{09/21/2020}{``Numerical study of the random $t-J$ model with all-to-all interactions,'' Harvard University, group seminar \href{https://hshackle.github.io/presentations/aug20Harvard.pdf}{[slides]}}
+\cvline{06/15/2020}{``Protection of parity-time symmetry in topological many-body systems,'' Harvard University, group seminar \href{https://hshackle.github.io/presentations/jun20Harvard.pdf}{[slides]}}
+\cvline{06/16/2018}{``Turing patterns on deformed surfaces,'' Kardar-Fest, in celebration of Prof. Mehran Kardar's 60th birthday, contributed talk \href{https://hshackle.github.io/presentations/jun18Kardar.pdf}{[slides]}}
+\clearpage
+\section{Posters}
+\cvline{01/20/2026}{``Twisted quantum doubles are sign problem-free'', Ultra Quantum Matter annual meeting}
+\cvline{06/25/2022}{``Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet'', Correlated Electron Systems Gordon Research Conference}
+\cvline{05/05/2022}{``Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet'', CIFAR Quantum Materials Summer School}
+\cvline{07/08/2021}{``Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet'', IMPRS-MPHQ-BeyondC Summer School}
+\Needspace{7cm}
+\section{Teaching experience}
+\textbf{Teaching fellow} at Harvard University for:
+
+\vspace{4pt}
+
+\cvitem{09/2022 - 12/2022}{Physics 195A (Introduction to Solid State Physics)}
+\cvitem{01/2022 - 05/2022}{Physics 153 (Electrodynamics)}
+\cvitem{01/2021 - 05/2021}{Physics 153 (Electrodynamics)}
+\vspace{4pt}
+\underline{Responsibilities:} Recitation and review sessions (2 hours per week), office hours (2 hours per week)
+\vspace{8pt}
+
+\textbf{Head teaching assistant} at Massachusetts Institute of Technology for:
+
+\vspace{4pt}
+
+\cvitem{09/2017 - 12/2017}{8.13 (Experimental Physics 1)}
+
+\vspace{5pt}
+
+\underline{Responsibilities:} Assisted students in conducting experiments (4 hours per week)
+\end{document}

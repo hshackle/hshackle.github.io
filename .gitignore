@@ -1,1 +1,15 @@
 Manifest.toml
+
+# Rebuildable CV output; retain editable source and the public PDF.
+/tmp/pdfs/
+/resume/*.aux
+/resume/*.bbl
+/resume/*.blg
+/resume/*.fdb_latexmk
+/resume/*.fls
+/resume/*.log
+/resume/*.out
+/resume/*.synctex.gz
+/resume/*.pdf
+/resume-updated.zip
+/resume.zip
