@@ -137,3 +137,24 @@ note; temporary slide exports and QA images were removed, while the supplied
 originals and preserved import remain local. This documentation-only follow-up
 is excluded from the website and does not require another deployment.
 Next action remains the poster reconciliation described above.
+
+## 2026-10-01 [codex] presentation label polish
+
+Scope: wording of the existing presentation list, 2018 through October 2026.
+Standardized 16 seminar/event labels in both CV sources with title capitalization
+and event-before-institution ordering. Expanded the Harvard label to
+“Condensed Matter Theory Kids' Seminar, Harvard University,” matching the
+[Tufts-published Boston Area Physics Calendar](https://cosmos.phy.tufts.edu/mhonarc/bapc/msg01475.html).
+Research titles, dates, presentation types, and all 23 slide links are preserved.
+This was a formatting pass, not a new factual audit.
+
+Validation: documented latexmk/BibTeX and clean Franklin builds succeeded; both
+presentation PDF pages and the website preview were visually inspected.
+Compared research titles/dates to the prior source revision and verified that
+all 23 slide links agree between sources and resolve locally.
+Base revision: `94f27f3`, initially clean local `main`. Generated tracked output
+is restored after preview because the deployment workflow regenerates it.
+The authorized push publishes the two CV sources and rebuilt public PDF;
+live deployment verification follows.
+CV SHA-256: `212e45c62154590cd39c1f14875439a121e0939b3dabdc1d963ec830527ea284`.
+Next action remains the poster reconciliation recorded above.

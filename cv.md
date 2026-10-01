@@ -65,34 +65,34 @@ Several papers of mine are listed under my old name, Henry Shackleton.
 - J. R. Frank, J. Guven, M. Kardar, and **L. Shackleton**, *Pinning of diffusional patterns by non-uniform curvature*, Europhysics Letters **127**, 48001 (2019). [[link]](https://doi.org/10.1209/0295-5075/127/48001)
 
 # Presentations
-* (10/2026) "Mapping the quantum limits of classical simulatability," NYU Center for Quantum Phenomena seminar (upcoming, October 20)
+* (10/2026) "Mapping the quantum limits of classical simulatability," Center for Quantum Phenomena Seminar, NYU (upcoming, October 20)
 * (09/2026) "Neural-Network Variational Monte Carlo for Anyons," Artificial Intelligence at the Quantum Frontier, KITP, UC Santa Barbara [[pdf]](/presentations/sep26KITP.pdf)
-* (09/2026) "Anyonic neural quantum states," University of Minnesota, condensed matter seminar [[pdf]](/presentations/sep26MinnesotaSeminar.pdf)
-* (09/2026) "Mapping the quantum limits of classical simulatability," University of Minnesota, physics colloquium [[pdf]](/presentations/sep26MinnesotaColloquium.pdf)
+* (09/2026) "Anyonic neural quantum states," Condensed Matter Seminar, University of Minnesota [[pdf]](/presentations/sep26MinnesotaSeminar.pdf)
+* (09/2026) "Mapping the quantum limits of classical simulatability," Physics Colloquium, University of Minnesota [[pdf]](/presentations/sep26MinnesotaColloquium.pdf)
 * (08/2026) "Mapping the quantum limits of classical simulatability," A Multicultural Approach to Fractionalization and Electronic Correlations in 2D Materials, Nordita, Stockholm [[pdf]](/presentations/aug26Nordita.pdf)
-* (05/2026) "Mapping the quantum limits of classical simulatability," MIT Pappalardo Symposium [[pdf]](/presentations/may26Pappalardo.pdf)
+* (05/2026) "Mapping the quantum limits of classical simulatability," Pappalardo Symposium, MIT [[pdf]](/presentations/may26Pappalardo.pdf)
 * (05/2026) "Mapping the quantum limits of classical simulatability," 130th Statistical Mechanics Conference, Rutgers University [[pdf]](/presentations/may26Rutgers.pdf)
 * (03/2026) "Twisted quantum doubles are sign problem-free," APS Global Physics Summit 2026 (March Meeting), Denver
 * (10/2025) "Twisted quantum doubles are sign problem-free," NUS Physics Condensed Matter Series
-* (09/2025) "Twisted quantum doubles are sign problem-free," Harvard Kids seminar
-* (09/2025) "Twisted quantum doubles are sign problem-free," MIT Condensed Matter Physics Seminar
+* (09/2025) "Twisted quantum doubles are sign problem-free," Condensed Matter Theory Kids' Seminar, Harvard University
+* (09/2025) "Twisted quantum doubles are sign problem-free," Condensed Matter Physics Seminar, MIT
 * (06/2024) "Fractionalized Fermi liquids: mean-field theories, instabilities, and variational wavefunctions," HQI-FQSP Perspectives of Fundamental Quantum Science [[pdf]](/presentations/jun24Riken.pdf)
 * (06/2024) "Variational wavefunctions for fractionalized Fermi liquids," EPiQS Postdoctoral Symposium [[pdf]](/presentations/jun24EPiQS.pdf)
 * (03/2024) "Variational wavefunctions for fractionalized Fermi liquids," APS March Meeting 2024, contributed talk [[pdf]](/presentations/mar24APSContributed.pdf)
 * (03/2024) "Conductance and thermopower fluctuations in interacting quantum dots," APS March Meeting 2024, invited talk [[pdf]](/presentations/mar24APSInvited.pdf)
-* (12/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," Perimeter Institute seminar
-* (11/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," University of Illinois Urbana-Champaign seminar [[pdf]](/presentations/nov23UIUC.pdf)
-* (11/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," Harvard Kids seminar [[pdf]](/presentations/nov23Kids.pdf)
-* (11/2023) "Sign-problem-free effective models for triangular lattice antiferromagnets," Flatiron Institute seminar [[pdf]](/presentations/nov23Flatiron.pdf)
-* (06/2023) "An exactly solvable dissipative spin liquid," University of Innsbruck, group seminar [[pdf]](/presentations/jun23Innsbruck.pdf)
-* (05/2023) "Variational wavefunctions for the pseudogap metal," Flatiron Institute, predoctoral researcher presentation [[pdf]](/presentations/may23Flatiron.pdf)
+* (12/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," Seminar, Perimeter Institute
+* (11/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," Seminar, University of Illinois Urbana-Champaign [[pdf]](/presentations/nov23UIUC.pdf)
+* (11/2023) "Models of deconfined criticality on square and triangular lattice antiferromagnets," Condensed Matter Theory Kids' Seminar, Harvard University [[pdf]](/presentations/nov23Kids.pdf)
+* (11/2023) "Sign-problem-free effective models for triangular lattice antiferromagnets," Seminar, Flatiron Institute [[pdf]](/presentations/nov23Flatiron.pdf)
+* (06/2023) "An exactly solvable dissipative spin liquid," Group Seminar, University of Innsbruck [[pdf]](/presentations/jun23Innsbruck.pdf)
+* (05/2023) "Variational wavefunctions for the pseudogap metal," Predoctoral Researcher Presentation, Flatiron Institute [[pdf]](/presentations/may23Flatiron.pdf)
 * (03/2023) "Sign-problem-free effective models of spin-1/2 Heisenberg antiferromagnetism on the triangular lattice," APS March Meeting 2023, contributed talk [[pdf]](/presentations/mar23APS.pdf)
-* (02/2023) "Paramagnon fractionalization theory of the cuprate pseudogap," Flatiron Institute, Quantum Monte Carlo seminar [[pdf]](/presentations/feb23Flatiron.pdf)
-* (11/2022) "Sign-problem-free effective models of triangular lattice antiferromagnetism," Harvard University, group seminar [[pdf]](/presentations/nov22Harvard.pdf)
+* (02/2023) "Paramagnon fractionalization theory of the cuprate pseudogap," Quantum Monte Carlo Seminar, Flatiron Institute [[pdf]](/presentations/feb23Flatiron.pdf)
+* (11/2022) "Sign-problem-free effective models of triangular lattice antiferromagnetism," Group Seminar, Harvard University [[pdf]](/presentations/nov22Harvard.pdf)
 * (03/2022) "Deconfined criticality and a gapless $\mathbb{Z}_2$ spin liquid in the square-lattice antiferromagnet," APS March Meeting 2022, contributed talk [[pdf]](/presentations/mar22APS.pdf)
 * (03/2021) "Protection of parity-time symmetry in topological many-body systems," APS March Meeting 2021, contributed talk [[pdf]](/presentations/mar21APS.pdf)
-* (09/2020) "Numerical study of the random $t-J$ model with all-to-all interactions," Harvard University, group seminar [[pdf]](/presentations/aug20Harvard.pdf)
-* (06/2020) "Protection of parity-time symmetry in topological many-body systems," Harvard University, group seminar [[pdf]](/presentations/jun20Harvard.pdf)
+* (09/2020) "Numerical study of the random $t-J$ model with all-to-all interactions," Group Seminar, Harvard University [[pdf]](/presentations/aug20Harvard.pdf)
+* (06/2020) "Protection of parity-time symmetry in topological many-body systems," Group Seminar, Harvard University [[pdf]](/presentations/jun20Harvard.pdf)
 * (06/2018) "Turing patterns on deformed surfaces," Kardar-Fest, in celebration of Prof. Mehran Kardar's 60th birthday, contributed talk [[pdf]](/presentations/jun18Kardar.pdf)
 
 
