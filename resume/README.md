@@ -191,8 +191,21 @@ initially clean local `main`; the source/PDF/documentation changes comprise
 this migration. No scientific remote project or scheduler applies.
 CV SHA-256: `93e7ae806c75c793a7d1e3068d1fffb88d0258f9144dc1cf2779f242a0a10837`.
 
-Publication is pending the repository rename and subsequent push/deployment
-verification. Next step: confirm the repository's exact new name, update the
-local origin, push the verified migration, and check Franklin/Pages success,
-live site pages, the CV checksum, and all slide URLs. External profile links
-and preservation of the former hostname need separate follow-up.
+Publication verified on 2026-10-01: migration commit
+`3267188f834dc2ff82056aa0a67eb6686a6cd40b` is published at the exact renamed
+repository `leynashackleton/leynashackleton.github.io`; local origin now points
+to it. Franklin workflow
+[36944087787](https://github.com/leynashackleton/leynashackleton.github.io/actions/runs/36944087787)
+and Pages deployment
+[36944265944](https://github.com/leynashackleton/leynashackleton.github.io/actions/runs/36944265944)
+completed successfully, with published `gh-pages` revision
+`d8ad8939785e71c27a9e8c91998c99d46b046e66`. Home, Research, and CV pages and all
+23 slide URLs return HTTP 200. The live CV download matches the SHA-256 above;
+feed and sitemap use the new hostname. The live homepage was visually
+inspected. The source checkout was clean before this documentation-only
+handoff update, which is excluded from website inputs and skips deployment.
+
+The former `hshackle.github.io` homepage returns HTTP 404, with no redirect.
+Next action: update external profile links and bookmarks to the new address;
+preserving the former hostname would require separate account/site setup.
+The previously recorded poster-reconciliation work remains outside this pass.
