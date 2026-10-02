@@ -20,7 +20,7 @@ keep_path = ["google2d93a2d6689ff1ec.html"]
 generate_rss = true
 website_title = "Leyna Shackleton"
 website_descr = "Leyna Shackleton's personal website"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_url   = "https://leynashackleton.github.io/"
 
 +++
 

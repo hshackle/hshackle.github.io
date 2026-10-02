@@ -166,3 +166,33 @@ and Pages
 completed successfully. The live presentation page shows the revised labels
 and was visually inspected; the downloaded CV matches the checksum above.
 The working tree was clean before this documentation-only handoff note.
+
+
+## 2026-10-01 [codex] website address migration
+
+Scope: migrate the existing website and CV to
+[leynashackleton.github.io](https://leynashackleton.github.io/) following the
+user's GitHub account rename. Public repository metadata confirmed ownership
+under `leynashackleton`; the repository rename to `leynashackleton.github.io`
+was still pending at the initial check. Updated the project title, Franklin
+website URL (previously the upstream template address), and all 24 local-site
+links in the editable CV. Rebuilt the public CV with the documented
+latexmk/BibTeX workflow; retained historical source filenames and past
+maintenance evidence links. No new content audit was performed.
+
+Validation: successful five-page CV build and clean Franklin build; all PDF
+pages and website CV preview visually inspected. Extracted CV text agrees
+with the prior PDF except for the homepage address. Verified the homepage
+link plus all 23 slide URLs and their existing local assets; feed and sitemap
+use the new hostname. Optional website minification was unavailable locally.
+Generated tracked website output was restored after preview because CI
+regenerates it. Base revision: `f9cf8a873f8004cdc7f040c4d9fddcb1e6abe8cb`,
+initially clean local `main`; the source/PDF/documentation changes comprise
+this migration. No scientific remote project or scheduler applies.
+CV SHA-256: `93e7ae806c75c793a7d1e3068d1fffb88d0258f9144dc1cf2779f242a0a10837`.
+
+Publication is pending the repository rename and subsequent push/deployment
+verification. Next step: confirm the repository's exact new name, update the
+local origin, push the verified migration, and check Franklin/Pages success,
+live site pages, the CV checksum, and all slide URLs. External profile links
+and preservation of the former hostname need separate follow-up.
