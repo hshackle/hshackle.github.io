@@ -10,7 +10,7 @@ tags = ["syntax", "code", "cv"]
 
 # CV
 
-My most up-to-date CV can be downloaded in [pdf](pdf) format [here](/pdfs/leynaShackletonCV.pdf), and is also listed below. My Google Scholar page is linked [here](https://scholar.google.com/citations?user=VO6t9ZQAAAAJ&hl=en).
+My most up-to-date CV can be downloaded in pdf format [here](/pdfs/leynaShackletonCV.pdf), and is also listed below. My Google Scholar page is linked [here](https://scholar.google.com/citations?user=VO6t9ZQAAAAJ&hl=en).
 
 Several papers of mine are listed under my old name, Henry Shackleton.
 
